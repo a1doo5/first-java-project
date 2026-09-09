@@ -13,6 +13,6 @@ public class Main {
         System.out.println("Quantity: " + quantity);
         System.out.println("Price without discount: " + totalPrice);
         System.out.println("Discount: " + discount);
-        System.out.println("Final price: " + finalPrice);
+        System.out.println("Final: " + finalPrice);
     }
 }
